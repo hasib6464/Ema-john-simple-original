@@ -1,0 +1,36 @@
+.product{
+              height: 510px;
+              width: 300px;
+              border: 1px solid green;
+              border-radius: 10px;
+             
+             
+}
+.product img {
+              height: 286px;
+              width: 286px;
+              border-radius: 8px;
+              margin: 7px;
+}
+.product-info{
+              padding: 7px;   
+}
+
+.product-info h4{
+margin: 0;
+}
+.btn-cart{
+              width: 100%;
+              background-color:cyan;
+              border-radius: 0 0 5px 5px;
+              border: none;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+}
+.btn-cart .btn-text{
+              margin-right: 5px;
+}
+.btn-cart:hover{
+              background-color: coral;
+}
